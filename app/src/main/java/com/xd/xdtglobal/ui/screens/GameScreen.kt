@@ -249,20 +249,6 @@ fun GameScreen(
                             modifier = Modifier.fillMaxSize()
                         )
 
-                        // Zeus character bottom-right
-                        Box(
-                            modifier = Modifier
-                                .align(Alignment.BottomEnd)
-                                .padding(end = 6.dp, bottom = 6.dp)
-                                .size(78.dp)
-                        ) {
-                            ZeusCharacter(
-                                phrase = zeusPhrase,
-                                visible = nowMs < zeusPhraseUntil,
-                                onPhraseEnded = { zeusPhrase = null }
-                            )
-                        }
-
                         // Score popup top-center of board
                         ScorePopup(
                             value = scorePopupValue,
