@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838978180129",
+    "project_id": "zeus-lightning-gates",
+    "storage_bucket": "zeus-lightning-gates.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838978180129:android:b860f169f836997607ff60",
+        "android_client_info": {
+          "package_name": "com.xd.xdtglobal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpF2L1Bqi2Yqc0FeuwjhdllDjuI4okQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
