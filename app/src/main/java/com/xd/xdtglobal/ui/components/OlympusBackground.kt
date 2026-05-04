@@ -1,5 +1,6 @@
 package com.xd.xdtglobal.ui.components
 
+import all.documentreader.filereader.office.vie.R
 import androidx.compose.animation.core.LinearEasing
 import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.animateFloat
@@ -27,7 +28,6 @@ import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.graphics.PathEffect
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
-import com.xd.xdtglobal.R
 import com.xd.xdtglobal.ui.theme.ElectricBlue
 import com.xd.xdtglobal.ui.theme.ElectricCyan
 import com.xd.xdtglobal.ui.theme.LightningWhite

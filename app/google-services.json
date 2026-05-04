@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:838978180129:android:b860f169f836997607ff60",
+        "mobilesdk_app_id": "1:838978180129:android:b6a4cfd73ac960e407ff60",
         "android_client_info": {
-          "package_name": "com.xd.xdtglobal"
+          "package_name": "all.documentreader.filereader.office.vie"
         }
       },
       "oauth_client": [],

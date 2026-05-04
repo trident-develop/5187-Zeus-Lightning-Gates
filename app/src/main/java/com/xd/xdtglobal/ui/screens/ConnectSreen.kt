@@ -1,5 +1,6 @@
 package com.xd.xdtglobal.ui.screens
 
+import all.documentreader.filereader.office.vie.R
 import android.annotation.SuppressLint
 import android.content.Context
 import android.net.ConnectivityManager
@@ -34,7 +35,6 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.xd.xdtglobal.R
 import com.xd.xdtglobal.navigation.Routes
 import com.xd.xdtglobal.ui.components.ZeusButton
 import com.xd.xdtglobal.ui.theme.ZeusFont

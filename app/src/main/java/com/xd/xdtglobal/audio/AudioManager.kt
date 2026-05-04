@@ -1,8 +1,8 @@
 package com.xd.xdtglobal.audio
 
+import all.documentreader.filereader.office.vie.R
 import android.content.Context
 import android.media.MediaPlayer
-import com.xd.xdtglobal.R
 import com.xd.xdtglobal.data.SettingsStore
 
 class AudioManager(
